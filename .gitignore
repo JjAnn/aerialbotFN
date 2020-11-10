@@ -1,4 +1,4 @@
-.nova/ # My code editor, see https://nova.app
+.nova/
 venv/
 __pycache__/
 data.sqlite
