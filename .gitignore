@@ -1,0 +1,3 @@
+.nova/ # My code editor, see https://nova.app
+data.sqlite # Main database file
+venv/ # Virtual environment
