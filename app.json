@@ -3,5 +3,6 @@
   "description": "A Fortnite lobby bot that runs in Python.",
   "repository": "https://github.com/AerialFN/Bot",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["fortnite", "lobby bot", "aerial fortnite"]
+  "keywords": ["fortnite", "lobby bot", "aerial fortnite"],
+  "addons": [{"plan": "heroku-postgresql"}]
 }
