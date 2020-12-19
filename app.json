@@ -2,7 +2,7 @@
   "name": "Aerial Bot",
   "description": "A Fortnite lobby bot that runs in Python.",
   "repository": "https://github.com/AerialFN/Bot",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://cdn.discordapp.com/icons/718842309998805022/a_d8ba697267e28c829931617a8b0206c5.webp?size=1024",
   "keywords": ["fortnite", "lobby bot", "aerial fortnite"],
   "addons": [{"plan": "heroku-postgresql"}]
 }
