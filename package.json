@@ -1,8 +1,0 @@
-{
-  "name": "PythOn",
-  "version": "0.2.0",
-  "description": "Aerial Bot",
-  "main": "main.py",
-  "scripts": {
-    "start": "node index.js"
-  }
